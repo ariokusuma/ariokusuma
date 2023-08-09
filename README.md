@@ -1,5 +1,5 @@
 # Hello, just call me Ario 👋
-
+I'm currently learning something new
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
